@@ -1,0 +1,12 @@
+metric,value,notes
+master_rows,35,Training seasons used after merging bloom + weather + ENSO
+year_range,1982–2016,Season years available in training set
+cutoff_date,2026-02-24,Date used for current-year feature row (latest < Mar 1 if Mar 1 not available)
+x_current_chill_mar1,1050.0,Current-year chill feature
+x_current_gdd_mar1,70.69,Current-year GDD feature
+x_current_winter_nino34,-0.8909090909090908,Current-year winter Niño3.4 feature
+walkforward_mae_mean_days,4.455444288253784,Mean MAE across TimeSeriesSplit folds
+walkforward_mae_std_days,1.283851838760874,Std of MAE across folds
+walkforward_mae_folds_days,"[6.18, 2.87, 3.97, 3.52, 5.74]",Per-fold MAE values
+forecast_predicted_doy,93,Predicted DOY for peak bloom
+forecast_predicted_date,2026-04-03,Predicted peak bloom date
