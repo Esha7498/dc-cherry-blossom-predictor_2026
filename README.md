@@ -77,7 +77,6 @@ dc-cherry-blossom-predictor/
 ├─ requirements.txt
 └─ README.md
 
-```
 ---
 
 ## Setup
