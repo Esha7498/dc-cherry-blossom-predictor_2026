@@ -1,4 +1,4 @@
-# DC Cherry Blossom Predictor 🌸 (Time-Series ML)
+# DC Cherry Blossom Predictor (Time-Series ML)
 
 Forecast **Washington, DC (Tidal Basin Yoshino)** peak bloom timing as **day-of-year (DOY)** using an interpretable, phenology-inspired ML pipeline with **time-aware validation**.
 
