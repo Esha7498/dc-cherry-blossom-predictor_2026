@@ -67,17 +67,17 @@ All weather features are aligned to a **season-year** definition (Nov–Dec assi
 
 ## Repository structure
 
-
+```text
 dc-cherry-blossom-predictor/
 ├─ src/
-│ ├─ pipeline.py
-│ └─ visuals.py
-├─ data/  add files locally
-├─ outputs/ # generated plots + summary tables
+│  ├─ pipeline.py
+│  └─ visuals.py
+├─ data/
+├─ outputs/
 ├─ requirements.txt
 └─ README.md
 
-
+```
 ---
 
 ## Setup
